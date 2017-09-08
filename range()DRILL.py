@@ -2,7 +2,7 @@ def start():
     first = no1()
     second = no2()
     third = no3()
-    print ("\nI hope it is a 'PASS' :) Thank you for your time and HAPPY FRIDAY!")
+    print ("\nI hope it's a 'PASS' :) Thank you for your time and HAPPY FRIDAY!")
 
 # one parameter to display 0,1,2,3
 def no1():
