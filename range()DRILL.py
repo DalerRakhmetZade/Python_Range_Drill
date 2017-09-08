@@ -36,7 +36,7 @@ def no2():
 def no3():
     run = True
     while run:
-        choice = input("\n\n\nSo far so good! Let's check the third range() function that should display: 8, 6, 4, 2. \nSay 'Daler is the best student to see results!' - Kidding :). \nJust enter 'Check' :").lower()
+        choice = input("\n\n\nSo far so good! Let's check the third range() function that should display: 8, 6, 4, 2. \nSay 'Daler is the best student' to see results! - Kidding :). \nJust enter 'Check' :").lower()
         if choice == "check":
             for i in range(8,0,-2):
                 print (i)
